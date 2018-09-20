@@ -1,3 +1,5 @@
-## Step title
+## Download Raspberry Pi Desktop
 
-+ Step content...
++ Download 
+
+![highlighted link to download raspberry pi desktop iso](images/download_raspberry_pi_desktop_annotated.PNG)
