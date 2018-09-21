@@ -2,7 +2,7 @@
 
 When you start your Raspberry Pi Desktop starts for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-![pi wizard](images/piwiz.gif)
+![raspberry pi desktop and pi wizard](images/raspberry_pi_desktop_piwiz.png)
 
 + Click **Next** to start the setup.
 
@@ -20,7 +20,7 @@ When you start your Raspberry Pi Desktop starts for the first time, the **Welcom
 
 **Note:** if your computer doesn't have wireless connectivity, you won't see this screen.
 
-+ Click **Next** let the wizard check for updates to Raspbian and install them (this might take a little while).
++ Click **Next** let the wizard check for updates to Raspberry Pi Desktop and install them (this might take a little while).
 
 ![pi wizard updating](images/piwiz6.PNG)
 
@@ -30,3 +30,4 @@ When you start your Raspberry Pi Desktop starts for the first time, the **Welcom
 
 ![pi wizard complete](images/piwiz7.PNG)
 
+Your Raspberry Pi Desktop is now ready to use.

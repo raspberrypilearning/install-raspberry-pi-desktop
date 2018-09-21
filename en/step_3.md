@@ -26,11 +26,11 @@ title: Need to download and install etcher?
 
 + Accept the **License Agreement**.
 
-![etcher windows install accept license agreement ](images/etcher_install_step1.PNG)
+![etcher windows install accept license agreement ](images/etcher_win_install_step1.PNG)
 
 The installation will run automatically and etcher will open when completed.
 
-![etcher windows installation running](images/etcher_install_step2.PNG)
+![etcher windows installation running](images/etcher_win_install_step2.PNG)
 
 ### Mac
 
@@ -52,17 +52,19 @@ The installation will run automatically.
 
 ![run the AppImage installer](images/etcher_linux_install_step2.PNG)
 
++ Open Etcher from the Applications menu.
+
 --- /collapse ---
 
-+ Click **Select Image** and open the *Raspberry Pi Desktop* ISO you downloaded.
++ Click **Select Image** and open the *Raspberry Pi Desktop* ISO file you downloaded.
 
 ![selecting raspberry pi desktop image from etcher](images/etcher_select_image.PNG)
 
 + Check the USB drive selected is the correct one.
 
-**Warning:** selecting the wrong drive will result in the data on it being deleted.
-
 ![drive selected in etcher](images/etcher_select_usb_annotated.PNG)
+
+**Warning:** selecting the wrong drive will result in the data on it being deleted.
 
 + Click **Flash** to write the Raspberry Pi Desktop image to your USB drive.
 

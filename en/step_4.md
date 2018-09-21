@@ -1,30 +1,26 @@
 ## Run the installation
 
-Now you have a USB drive installer you can use it to install the Raspberry Pi Desktop on a computer.
+Now you have a USB drive installer you can use it to install the Raspberry Pi Desktop on a computer. The installer can be used multiple times and once the installation is complete it can be removed from the computer.
 
-**Note:** the installer can be used multiple times and once the installation is complete it can be removed from the computer.
-
-**Warning:** this will delete all the data on your computer, be sure you have backed up anything you need.
+**Warning:** this will delete all the data on your computer, be sure you have backed up anything you need before continuing.
 
 ### Boot from USB
 
 To install the Raspberry Pi Desktop from your USB installer you will need to boot your computer from USB.
 
-Depending on the setup of your computer you may need to press a key to open the **boot menu** and select USB.
+Depending on the setup of your computer you may need to press a key to open the **boot menu** and select USB. The key you need to press will depend on the make and model of your computer but it is likely be a function key.  
 
-The key you need to press will depend on the make and model of your computer but it is likely be a function key.  
+You can find the **Boot Menu Key** for many makes and models and computers at [rpf.io/usb-boot](http://rpf.io/usb-boot).
 
-You will find a list of laptop make and models at [rpf.io/usb-boot](http://rpf.io/usb-boot) which shows the **Boot Menu Key** you will need to use.
++ Insert the USB drive installer into the computer.
 
-+ Insert the USB drive installer into the computer
-
-+ Turn on the computer
++ Turn on the computer.
 
 + As the computer is starting press the **Boot Menu Key** - you may need to press it multiple times in order for the menu to appear.
 
 A boot menu will appear which will look similar to this:
 
-![boot menu](images/boot menu)
+![boot menu](images/boot menu.jpg)
 
 + Select the option for your USB drive, probably labelled **USB-HDD** and press <kbd>Enter</kbd>.
 
