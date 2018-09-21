@@ -1,14 +1,12 @@
-## Create USB Drive Installer
+## Create USB drive installer
 
---- task ---
+The USB drive which will hold all the installation files required to setup your computer with Raspbian.
 
-Insert your USB drive into your computer.
+**Warning:** this will delete all of the data on your USB drive, if you need any files on it make sure you have made a backup.
 
---- /task ---
++ Insert the USB drive into your computer.
 
---- task ---
-
-Open Etcher
++ Open [etcher.io](https://etcher.io/) to write the Raspberry Pi Desktop installation to the USB drive
 
 --- collapse ---
 
@@ -18,31 +16,31 @@ title: Download and Install etcher
 
 + Download etcher for your operating system from [etcher.io](https://etcher.io/).
 
-+ Run the installer you 
++ Run the installer you downloaded.
+
++ Accept the **License Agreement**.
+
+![etcher install accept license agreement ](images/etcher_install_step1.PNG)
+
+The installation will run automatically and etcher will open when completed.
+
+![etcher installation running](images/etcher_install_step2.PNG)
 
 --- /collapse ---
 
-Click **Select Image** and open the *Raspberry Pi Desktop* ISO you downloaded.
++ Click **Select Image** and open the *Raspberry Pi Desktop* ISO you downloaded.
 
 ![selecting raspberry pi desktop image from etcher](images/etcher_select_image.PNG)
 
---- /task ---
++ Check the USB drive selected is the correct one.
 
---- task ---
-
-Check the USB drive you selected is the correct one.
+**Warning:** selecting the wrong drive will result in the data on it being deleted.
 
 ![drive selected in etcher](images/etcher_select_usb_drive.PNG)
 
---- /task ---
-
---- task ---
-
-Click **Flash!** to write the Raspberry Pi Desktop image to your USB drive.
++ Click **Flash!** to write the Raspberry Pi Desktop image to your USB drive.
 
 ![flash button highlighted in etcher](images/etcher_flash_annotated.PNG)
-
---- /task ---
 
 Etcher will show the message **Starting** before showing the progress.
 
