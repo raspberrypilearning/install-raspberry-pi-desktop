@@ -20,7 +20,7 @@ You can find the **Boot Menu Key** for many makes and models and computers at [r
 
 A boot menu will appear which will look similar to this:
 
-![boot menu](images/boot menu.jpg)
+![boot menu](images/boot_menu.jpg)
 
 + Select the option for your USB drive, probably labelled **USB-HDD** and press <kbd>Enter</kbd>.
 

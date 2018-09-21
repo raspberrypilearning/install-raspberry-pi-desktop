@@ -2,7 +2,7 @@
 
 You will learn how to install the Raspberry Pi Desktop on a PC or Apple Mac and get the Raspberry Pi experience on your laptop or desktop computer.
 
-TODO - need a picture of a computer running Raspberry Pi Desktop.
+![raspberry pi desktop running on a laptop](images/raspberry_pi_desktop_laptop.PNG)
 
 Running the Raspberry Pi Desktop is a great way to recycle old hardware which is no longer capable of running the latest version of Windows or macOS.
 
