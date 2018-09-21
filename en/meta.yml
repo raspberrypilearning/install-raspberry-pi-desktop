@@ -11,4 +11,5 @@ steps:
   - title: Create a USB Drive installer
   - title: Install Raspberry Pi Desktop
   - title: Starting the Raspbery Pi Desktop
+  - title: What next?
 
