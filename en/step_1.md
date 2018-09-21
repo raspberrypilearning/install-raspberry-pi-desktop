@@ -1,25 +1,32 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You will learn how to install the Raspberry Pi Desktop on a PC or Apple Mac and get the Raspberry Pi experience on your laptop or desktop computer.
 
-### What you will make
+TODO - need a picture of a computer running Raspberry Pi Desktop.
 
-Add something here to showcase here, for example:
+This is a great way to recycle old hardware which is no longer capable of running the latest version of Windows or macOS.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+**Warning:** installing Raspberry Pi Desktop on a computer will delete all the data on it, so be sure to have backed up anything you need.
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+--- collapse ---
 
-### What you will learn
+---
+title: What you will need
+---
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+### Hardware
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
++ A USB drive which is 8GB or greater in size
++ A computer to create the USB drive installer
++ A computer to install the Raspberry Pi Desktop on to
 
-### Additional information for educators
+**Note:** these computers could be the same one.
+
+### Software
+
++ [Raspberry Pi Desktop installation](https://www.raspberrypi.org/downloads/raspberry-pi-desktop/)
++ [Etcher](https://etcher.io/)
+
+--- /collapse ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.

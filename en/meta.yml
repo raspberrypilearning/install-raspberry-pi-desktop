@@ -7,7 +7,6 @@ copyedit: false
 last_tested: "2018-09-19"
 steps:
   - title: Introduction
-  - title: What you will need
   - title: Download Raspberry Pi Desktop
   - title: Create a USB Drive installer
   - title: Install Raspberry Pi Desktop

@@ -1,13 +1,14 @@
-## What you will need
+## Download Raspberry Pi Desktop install
 
-### Hardware
+The Raspberry Pi Desktop installation will need to be downloaded and stored on your computer.
 
-+ List hardware here, or delete section.
++ Download the latest version of the [Raspberry Pi Desktop installation](https://www.raspberrypi.org/downloads/raspberry-pi-desktop/) from the Raspberry Pi website.
 
-### Software
+**Note:** the download may take a long time as the file is large so using a high-speed connection is recommended.
 
-+ List software here, or delete section.
+![highlighted link to download raspberry pi desktop iso](images/download_raspberry_pi_desktop_annotated.PNG)
 
-### Additional Resources
+*The latest version should be downloaded and might be different to that shown in the image above.*
 
-+ List additional resources, or delete section.
++ Save the **.iso** installation file on your computer, it doesn't matter where, but remember where you saved it as you will need it later.
+
