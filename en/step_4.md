@@ -95,3 +95,5 @@ The installation will now continue.
 When installation completes your computer will automatically reboot and you will be presented with the `GNU GRUB boot screen`
 
 ![GNU GRUB boot screen](images/debian_boot_screen.png)
+
++ Press <kbd>Enter</kbd> to run **Debian GNU/Linux**.

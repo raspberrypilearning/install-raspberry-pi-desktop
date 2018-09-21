@@ -20,7 +20,7 @@ title: Need to download and install etcher?
 
 ![etcher website with link highlighted](images/download_etcher_annotated.PNG)
 
-+ Run the installer you downloaded by double clicking it.
++ Open the installer file you downloaded.
 
 ### Windows
 
@@ -41,6 +41,16 @@ The installation will run automatically and etcher will open when completed.
 The installation will run automatically.
 
 + Open Etcher from Applications.
+
+### Linux
+
++ Extract the Etcher AppImage from the zip file.
+
+![extract linux appimage from the etcher zip file download](images/etcher_linux_install_step1.PNG)
+
++ Run the Etcher AppImage installer.
+
+![run the AppImage installer](images/etcher_linux_install_step2.PNG)
 
 --- /collapse ---
 
