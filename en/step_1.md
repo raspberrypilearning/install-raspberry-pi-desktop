@@ -4,7 +4,9 @@ You will learn how to install the Raspberry Pi Desktop on a PC or Apple Mac and 
 
 TODO - need a picture of a computer running Raspberry Pi Desktop.
 
-This is a great way to recycle old hardware which is no longer capable of running the latest version of Windows or macOS.
+Running the Raspberry Pi Desktop is a great way to recycle old hardware which is no longer capable of running the latest version of Windows or macOS.
+
+It also comes pre-installed with lots of tools useful to get started with coding and digital making.
 
 **Warning:** installing Raspberry Pi Desktop on a computer will delete all the data on it, so be sure to have backed up anything you need.
 

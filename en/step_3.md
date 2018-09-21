@@ -13,7 +13,7 @@ The USB drive which will hold all the installation files required to setup your 
 --- collapse ---
 
 ---
-title: Need to download and install etcher?
+title: Need to download and install Etcher?
 ---
 
 + Download Etcher for your operating system from [etcher.io](https://etcher.io/).
