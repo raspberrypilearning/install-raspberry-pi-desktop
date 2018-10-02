@@ -1,0 +1,15 @@
+title: install-raspberry-pi-desktop
+hero_image: images/banner.png
+description: install-raspberry-pi-desktop description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2018-09-19"
+steps:
+  - title: Introduction
+  - title: Download Raspberry Pi Desktop
+  - title: Create a USB Drive installer
+  - title: Install Raspberry Pi Desktop
+  - title: Starting the Raspbery Pi Desktop
+  - title: What next?
+
