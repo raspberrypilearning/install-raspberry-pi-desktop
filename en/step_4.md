@@ -1,82 +1,82 @@
 ## Run the installation
 
-Now you have a USB drive installer you can use it to install the Raspberry Pi Desktop on a computer. The installer can be used multiple times and once the installation is complete it can be removed from the computer.
+Now you can use your USB drive installer to install the Raspberry Pi Desktop on a computer. Once the installation in complete, you can remove the installer from the computer. You can use the installer multiple times to install the Raspberry Pi Desktop on multiple computers.
 
-**Warning:** this will delete all the data on your computer, be sure you have backed up anything you need before continuing.
+**Warning:** remember, installing the Raspberry Pi Desktop will delete all the data on your computer. Be sure that you have backed up everything you need before continuing.
 
-### Boot from USB
+### Boot from the USB drive
 
-To install the Raspberry Pi Desktop from your USB installer you will need to boot your computer from USB.
+To install the Raspberry Pi Desktop from your USB installer, you will need to boot your computer from the USB drive.
 
-Depending on the setup of your computer you may need to press a key to open the **boot menu** and select USB. The key you need to press will depend on the make and model of your computer but it is likely be a function key.  
+To be able to do this, you may need to press a key to open the **boot menu** and select **USB**. The key you need to press will depend on the make and model of your computer. It is likely be a function key.  
 
-You can find the **Boot Menu Key** for many makes and models and computers at [rpf.io/usb-boot](http://rpf.io/usb-boot).
+You can find out the **boot menu key** of many makes and models of computers at [rpf.io/usb-boot](http://rpf.io/usb-boot).
 
 + Insert the USB drive installer into the computer.
 
 + Turn on the computer.
 
-+ As the computer is starting press the **Boot Menu Key** - you may need to press it multiple times in order for the menu to appear.
++ As the computer is starting up, press the **boot menu key**. You may need to press it multiple times in order for the menu to appear.
 
-A boot menu will appear which will look similar to this:
+A boot menu will appear that will look similar to this:
 
 ![boot menu](images/boot_menu.jpg)
 
-+ Select the option for your USB drive, probably labelled **USB-HDD** and press <kbd>Enter</kbd>.
++ Select the option for your USB drive, probably called **USB-HDD**, and press <kbd>Enter</kbd>.
 
 ### Install Debian Linux
 
-The Debian install menu will appear.
+The Debian installation menu will appear.
 
-+ Select `Graphical install` from the Debian GNU/Linux menu.
++ Select **Graphical install** from the **Debian GNU/Linux** menu.
 
-**Note:** if you do not select 'Graphical install' quick enough the installer will start using the default option, if this happens, turn off the computer and restart it.
+**Note:** if you do not select **Graphical install** quickly enough, the installer will start using the default option. If this happens, turn off the computer and restart it.
 
 ![debian install menu](images/step11.PNG)
 
-+ Select your Keyboard type and click `Continue`.
++ Select your keyboard type and click **Continue**.
 
 ![configure keyboard](images/step12.PNG)
 
 The installation process will now install media and detect what hardware is present.
 
-+ Set how you want to Partition your hard disk, select `Guided - use entire disk` and click `Continue`.
++ To set how you want to partition your hard disk, select **Guided - use entire disk**, and click **Continue**.
 
 ![partition disk](images/step13.PNG)
 
-+ Select the disk to be partitioned, there will be only 1, and click `Continue`.
++ Select the disk to be partitioned (there will be only one), and click **Continue**.
 
 ![select disk](images/step13_5.PNG)
 
-+ Set the partitioning scheme, select `All files in one partition (recommended for new users)` and click `Continue`.
++ To set the partitioning scheme, select **All files in one partition (recommended for new users)**, and click **Continue**.
 
 ![partioning scheme](images/step14.PNG)
 
-+ Confirm the partition settings by selecting `Finish partitioning and write changes to disk` and clicking `Continue`.
++ To confirm the partition settings, select **Finish partitioning and write changes to disk**, and click **Continue**.
 
 ![finish partitioning](images/step15.PNG)
 
-+ Confirm that you wish to write the changes to the disk by selecting `Yes` and clicking `Continue`.
++ Confirm that you wish to write the changes to the disk by selecting **Yes** and clicking **Continue**.
 
 ![confirm partitioning](images/step16.PNG)
 
-Debian will now install the operating system.
+The Debian operating system installation will now run.
 
 ![debian install](images/step17.PNG)
 
 --- collapse ---
 
 ---
-title: Need to install the grub boot loader?
+title: Need to install the GRUB boot loader?
 ---
 
-Depending on the setup of your computer, you may need to install the grub boot loader, if so:
+Depending on the setup of your computer, you may need to install the GRUB boot loader. If that's the case, do the following:
 
-+ Confirm you want to install the GRUB boot loader on a hard disk by selecting Yes and clicking `Continue`.
++ Confirm you want to install the GRUB boot loader on a hard disk by selecting **Yes** and clicking **Continue**.
 
 ![install grub loader](images/step18.PNG)
 
-+ Select the device `/dev/sda` for boot loader installation and click `Continue`.
++ Select the device `/dev/sda` for boot loader installation, and click **Continue**.
 
 ![select boot loader device](images/step19.PNG)
 
@@ -84,11 +84,11 @@ The installation will now continue.
 
 --- /collapse ---
 
-+ When installation has finished click `Continue`.
++ When the installation is finished, click **Continue**.
 
 ![installation finished](images/step20.PNG)
 
-When installation completes your computer will automatically reboot and you will be presented with the `GNU GRUB boot screen`
+Your computer will automatically reboot and then show you the **GNU GRUB boot screen**.
 
 ![GNU GRUB boot screen](images/debian_boot_screen.png)
 
