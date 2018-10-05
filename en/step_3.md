@@ -1,6 +1,6 @@
 ## Create a USB drive installer
 
-The installer is the USB drive that will hold all the installation files required to set up your computer with Raspberry Pi Desktop.
+The installer is the USB drive that will hold all the installation files required to set up your computer with Raspberry Pi Desktop. You'll be able to use your installer multiple times to install the Raspberry Pi Desktop on multiple computers.
 
 **Warning:** setting up a USB drive as an installer will delete all the files on the drive. If you need any files on the drive you're planning to use, make sure you have backed them up.
 
