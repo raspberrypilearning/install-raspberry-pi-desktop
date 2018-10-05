@@ -1,4 +1,4 @@
-## Create the USB drive installer
+## Create a USB drive installer
 
 The installer is the USB drive that will hold all the installation files required to set up your computer with Raspbian.
 
