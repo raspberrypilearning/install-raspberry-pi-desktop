@@ -1,4 +1,4 @@
-## Start the Raspberry Pi Desktop
+## Start up Raspberry Pi Desktop
 
 When you start your Raspberry Pi Desktop for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
