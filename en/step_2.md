@@ -1,4 +1,4 @@
-## Download the Raspberry Pi Desktop installation 
+## Download Raspberry Pi Desktop
 
 + Download the latest version of the [Raspberry Pi Desktop installation](https://www.raspberrypi.org/downloads/raspberry-pi-desktop/) from the Raspberry Pi website.
 
