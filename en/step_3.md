@@ -1,8 +1,8 @@
 ## Create a USB drive installer
 
-The installer is the USB drive that will hold all the installation files required to set up your computer with Raspbian.
+The installer is the USB drive that will hold all the installation files required to set up your computer with Raspberry Pi Desktop.
 
-**Warning:** setting up a USB drive as an installer will delete all of the data on the drive. If you need any files on it, make sure you have made a backup.
+**Warning:** setting up a USB drive as an installer will delete all the files on the drive. If you need any files on the drive you're planning to use, make sure you have backed them up.
 
 + Insert the USB drive into your computer.
 
@@ -34,11 +34,9 @@ The installation will proceed automatically, and when it is complete, the Etcher
 
 ### Mac
 
-+ Drag the Etcher icon to the **Applications** folder.
++ Drag the Etcher icon to the **Applications** folder. The installation will then happen automatically.
 
 ![etcher mac install](images/etcher_mac_install.PNG)
-
-The installation will proceed automatically.
 
 + Open the Etcher program from the **Applications** folder.
 
@@ -56,15 +54,17 @@ The installation will proceed automatically.
 
 --- /collapse ---
 
-+ In Etcher, click **Select Image** and open the `Raspberry Pi Desktop` ISO file you downloaded.
++ In Etcher, click **Select Image**.
+
++ In the window that opens, select the `Raspberry Pi Desktop` ISO file you downloaded, and then click **Open**.
 
 ![selecting raspberry pi desktop image from etcher](images/etcher_select_image.PNG)
 
-+ Select the correct USB drive.
++ Select the correct USB drive. If you need to change the one that is selected, click **Change**.
 
 ![drive selected in etcher](images/etcher_select_usb_annotated.PNG)
 
-**Warning:** selecting the wrong drive will result in the data on it being deleted.
+**Warning:** selecting the wrong drive and then proceeding to the next step will result in all the data on the drive being deleted.
 
 + Click **Flash** to write the Raspberry Pi Desktop image to your USB drive.
 
@@ -76,6 +76,6 @@ Etcher will show the message `Starting`, and then it will show the `Flashing` pr
 
 ![etcher showing the status flashing](images/etcher_flashing.PNG)
 
-When the proces is complete, you will see the message `Flash Complete`.
+When the process is complete, you will see the message `Flash Complete`.
 
 ![flash complete message in etcher](images/etcher_flash_complete.PNG)
