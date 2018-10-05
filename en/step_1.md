@@ -1,6 +1,6 @@
 ## Introduction
 
-You will learn how to install Raspberry Pi Desktop on a PC or Apple Mac to get the Raspberry Pi experience on your laptop or desktop computer.
+You will find out how to install Raspberry Pi Desktop on a PC or Apple Mac to get the Raspberry Pi experience on your laptop or desktop computer.
 
 ![raspberry pi desktop running on a laptop](images/raspberry_pi_desktop_laptop.PNG)
 
