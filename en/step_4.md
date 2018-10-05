@@ -1,14 +1,14 @@
 ## Run the installation
 
-Now you can use your USB drive installer to install the Raspberry Pi Desktop on a computer. Once the installation in complete, you can remove the installer from the computer. You can use the installer multiple times to install the Raspberry Pi Desktop on multiple computers.
+Now you can use your USB drive installer to install the Raspberry Pi Desktop on a computer.
 
 **Warning:** remember, installing the Raspberry Pi Desktop will delete all the data on your computer. Be sure that you have backed up everything you need before continuing.
 
 ### Boot from the USB drive
 
-To install the Raspberry Pi Desktop from your USB installer, you will need to boot your computer from the USB drive.
+To install the Raspberry Pi Desktop from your USB drive installer, you will need to boot your computer from the USB drive.
 
-To be able to do this, you may need to press a key to open the **boot menu** and select **USB**. The key you need to press will depend on the make and model of your computer. It is likely be a function key.  
+To be able to do this, you may need to press a key while the computer is starting up to open the **boot menu** and select **USB**. The key you need to press depends on the make and model of your computer.
 
 You can find out the **boot menu key** of many makes and models of computers at [rpf.io/usb-boot](http://rpf.io/usb-boot).
 
@@ -18,7 +18,7 @@ You can find out the **boot menu key** of many makes and models of computers at 
 
 + As the computer is starting up, press the **boot menu key**. You may need to press it multiple times in order for the menu to appear.
 
-A boot menu will appear that will look similar to this:
+A boot menu will appear that should look similar to this:
 
 ![boot menu](images/boot_menu.jpg)
 
@@ -30,7 +30,7 @@ The Debian installation menu will appear.
 
 + Select **Graphical install** from the **Debian GNU/Linux** menu.
 
-**Note:** if you do not select **Graphical install** quickly enough, the installer will start using the default option. If this happens, turn off the computer and restart it.
+**Note:** if you do not select **Graphical install** quickly enough, the installer will start using the default option. If this happens, turn off the computer, restart it, and boot from the USB drive again as described above.
 
 ![debian install menu](images/step11.PNG)
 
@@ -93,3 +93,5 @@ Your computer will automatically reboot and then show you the **GNU GRUB boot sc
 ![GNU GRUB boot screen](images/debian_boot_screen.png)
 
 + Press <kbd>Enter</kbd> to run **Debian GNU/Linux**.
+
++ Now that the installation in complete, you can remove the USB drive installer from the computer.
