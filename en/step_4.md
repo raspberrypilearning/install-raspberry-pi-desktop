@@ -70,8 +70,6 @@ The installation process will now install media and detect what hardware is pres
 
 + Select the disk to be partitioned, there maybe more than 1 and click **Continue**.
 
-![select disk](images/step13_5.PNG)
-
 --- collapse ---
 
 ---
@@ -83,6 +81,8 @@ You should select your computer's internal drive which is probably the largest d
 If you are still unsure, try unplugging all peripherals (external hard drives, printers, sd cards) except your USB drive installer and restarting the installation process.
 
 --- /collapse ---
+
+![select disk](images/step13_5.PNG)
 
 + To set the partitioning scheme, select **All files in one partition (recommended for new users)**, and click **Continue**.
 
