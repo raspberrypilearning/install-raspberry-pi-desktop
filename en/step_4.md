@@ -24,6 +24,30 @@ A boot menu will appear that should look similar to this:
 
 + Select the option for your USB drive, probably called **USB-HDD**, and press <kbd>Enter</kbd>.
 
+--- collapse ---
+
+---
+title: Problems with secure boot?
+---
+
+Depending on the setup of your computer you may receive a "Secure Boot" error. This is normally due to "Secure Boot" being enabled in the computers BIOS.
+
+To disable "Secure Boot" you will need to enter the BIOS by pressing the bios key while your computer is starting up. 
+
+Again the key you need to press depends upon on the make and model of your computer and you can find out the **bios key** for many computers at [rpf.io/usb-boot](http://rpf.io/usb-boot).
+
+The **Secure Boot** option will usually be found under the "Security", "Advanced" or "Boot" menus in the BIOS, although this maybe different on your computer.
+
+![bios security menu](images/bios_secure_boot1.png)
+
++ Disable **Secure Boot**, save the changes and exit.
+
+![bios secure boot option](images/bios_secure_boot2.png)
+
++ Boot from the USB drive again.
+
+--- /collapse ---
+
 ### Install Debian Linux
 
 The Debian installation menu will appear.
@@ -44,9 +68,21 @@ The installation process will now install media and detect what hardware is pres
 
 ![partition disk](images/step13.PNG)
 
-+ Select the disk to be partitioned (there will be only one), and click **Continue**.
++ Select the disk to be partitioned, there maybe more than 1 and click **Continue**.
 
 ![select disk](images/step13_5.PNG)
+
+--- collapse ---
+
+---
+title: Which drive to select?
+---
+
+You should select your computer's internal drive which is probably the largest drive available.
+
+If you are still unsure, try unplugging all peripherals (external hard drives, printers, sd cards) except your USB drive installer and restarting the installation process.
+
+--- /collapse ---
 
 + To set the partitioning scheme, select **All files in one partition (recommended for new users)**, and click **Continue**.
 
