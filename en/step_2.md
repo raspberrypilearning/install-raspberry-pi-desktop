@@ -1,12 +1,11 @@
-## Download Raspberry Pi Desktop install
+## Download Raspberry Pi Desktop
 
-+ Download the latest version of the [Raspberry Pi Desktop installation](https://www.raspberrypi.org/downloads/raspberry-pi-desktop/) from the Raspberry Pi website.
++ Go to the [Raspberry Pi Desktop website](https://www.raspberrypi.org/downloads/raspberry-pi-desktop/), and start the download of the latest installation file by clicking the **Download ISO** button. 
 
-**Note:** the download may take a long time as the file is large so using a high-speed connection is recommended.
+**Note:** the file is large, so the download may take a long time, and we recommend using a high-speed internet connection.
 
 ![highlighted link to download raspberry pi desktop iso](images/download_raspberry_pi_desktop_annotated.PNG)
 
-*The latest version should be downloaded and might be different to that shown in the image above.*
+**Note:** since you'll download the latest version, it might be different to the one shown in the image above.
 
-+ Save the **.iso** installation file on your computer, it doesn't matter where, but remember where you saved it as you will need it in the next step.
-
++ Save the **.iso** installation file on your computer. Make sure to memorise where you're saving the file, as you will need it in the next step.
