@@ -1,6 +1,6 @@
 # install-raspberry-pi-desktop
 
-![install-raspberry-pi-desktop](banner.png)
+![install-raspberry-pi-desktop](en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/install-raspberry-pi-desktop](https://projects.raspberrypi.org/en/projects/install-raspberry-pi-desktop)
 
