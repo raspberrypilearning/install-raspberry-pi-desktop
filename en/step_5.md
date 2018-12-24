@@ -1,4 +1,4 @@
-### Install Raspberry Pi Desktop
+## Install Raspberry Pi Desktop
 
 After booting from your USB drive installer, the Debian installation menu will appear.
 
