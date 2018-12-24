@@ -9,6 +9,7 @@ steps:
   - title: Introduction
   - title: Download Raspberry Pi Desktop
   - title: Create a USB drive installer
+  - title: Boot from the USB drive
   - title: Install Raspberry Pi Desktop
   - title: Start up Raspbery Pi Desktop
   - title: What next?

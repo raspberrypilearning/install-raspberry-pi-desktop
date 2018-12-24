@@ -1,8 +1,33 @@
-## What next?
+## Start up Raspberry Pi Desktop
 
-Explore what you can do with your Raspberry Pi Desktop by creating some of our [digital making projects](https://projects.raspberrypi.org), for example:
+When you start your Raspberry Pi Desktop for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
 
-+ [Boat race](https://projects.raspberrypi.org/en/projects/boat-race) — make a boat racing game in Scratch where you have to avoid obstacles
-+ [Rock band](https://projects.raspberrypi.org/en/projects/rock-band) — learn how to code your own musical instruments
-+ [Turtle race](https://projects.raspberrypi.org/en/projects/turtle-race) — race digital turtles against each other
-+ [Zombie apocalypse survival map](https://projects.raspberrypi.org/en/projects/zombie-apocalypse-map) — create and navigate a GPS map to help you survive the zombie apocalypse
+![raspberry pi desktop and pi wizard](images/raspberry_pi_desktop_piwiz.png)
+
++ Click **Next** to start the setup.
+
++ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
+
+![pi wizard country](images/piwiz2.PNG)
+
++ Enter a new password for your Raspberry Pi and click **Next**.
+
+![pi wizard password](images/piwiz3.PNG)
+
++ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
+
+![pi wizard wifi](images/piwiz4.PNG)
+
+**Note:** if your computer doesn't have wireless connectivity, you won't see this screen.
+
++ Click **Next** to let the application check for updates to Raspberry Pi Desktop and install them (this might take a little while).
+
+![pi wizard updating](images/piwiz6.PNG)
+
++ Click **Done** or **Reboot** to finish the setup.
+
+**Note:** you will only need to reboot if that's necessary to complete an update.
+
+![pi wizard complete](images/piwiz7.PNG)
+
+Your Raspberry Pi Desktop is now ready to use!
