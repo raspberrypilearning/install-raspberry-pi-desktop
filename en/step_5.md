@@ -1,33 +1,83 @@
-## Start up Raspberry Pi Desktop
+## Install Raspberry Pi Desktop
 
-When you start your Raspberry Pi Desktop for the first time, the **Welcome to Raspberry Pi** application will pop up and guide you through the initial setup.
+After booting from your USB drive installer, the Debian installation menu will appear.
 
-![raspberry pi desktop and pi wizard](images/raspberry_pi_desktop_piwiz.png)
++ Select **Graphical install** from the **Debian GNU/Linux** menu.
 
-+ Click **Next** to start the setup.
+**Note:** if you do not select **Graphical install** quickly enough, the installer will start using the default option. If this happens, turn off the computer, restart it, and boot from the USB drive again as described above.
 
-+ Set your **Country**, **Language**, and **Timezone**, then click **Next** again.
+![debian install menu](images/step11.PNG)
 
-![pi wizard country](images/piwiz2.PNG)
++ Select your keyboard type and click **Continue**.
 
-+ Enter a new password for your Raspberry Pi and click **Next**.
+![configure keyboard](images/step12.PNG)
 
-![pi wizard password](images/piwiz3.PNG)
+The installation process will now install media and detect what hardware is present.
 
-+ Connect to your WiFi network by selecting its name, entering the password, and clicking **Next**.
++ To set how you want to partition your hard disk, select **Guided - use entire disk**, and click **Continue**.
 
-![pi wizard wifi](images/piwiz4.PNG)
+![partition disk](images/step13.PNG)
 
-**Note:** if your computer doesn't have wireless connectivity, you won't see this screen.
++ Select the disk to be partitioned, there maybe more than 1 and click **Continue**.
 
-+ Click **Next** to let the application check for updates to Raspberry Pi Desktop and install them (this might take a little while).
+--- collapse ---
 
-![pi wizard updating](images/piwiz6.PNG)
+---
+title: Which drive to select?
+---
 
-+ Click **Done** or **Reboot** to finish the setup.
+You should select your computer's internal drive which is probably the largest drive available.
 
-**Note:** you will only need to reboot if that's necessary to complete an update.
+If you are still unsure, try unplugging all peripherals (external hard drives, printers, sd cards) except your USB drive installer and restarting the installation process.
 
-![pi wizard complete](images/piwiz7.PNG)
+--- /collapse ---
 
-Your Raspberry Pi Desktop is now ready to use!
+![select disk](images/step13_5.PNG)
+
++ To set the partitioning scheme, select **All files in one partition (recommended for new users)**, and click **Continue**.
+
+![partioning scheme](images/step14.PNG)
+
++ To confirm the partition settings, select **Finish partitioning and write changes to disk**, and click **Continue**.
+
+![finish partitioning](images/step15.PNG)
+
++ Confirm that you wish to write the changes to the disk by selecting **Yes** and clicking **Continue**.
+
+![confirm partitioning](images/step16.PNG)
+
+The Debian operating system installation will now run.
+
+![debian install](images/step17.PNG)
+
+--- collapse ---
+
+---
+title: Need to install the GRUB boot loader?
+---
+
+Depending on the setup of your computer, you may need to install the GRUB boot loader. If that's the case, do the following:
+
++ Confirm you want to install the GRUB boot loader on a hard disk by selecting **Yes** and clicking **Continue**.
+
+![install grub loader](images/step18.PNG)
+
++ Select the device `/dev/sda` for boot loader installation, and click **Continue**.
+
+![select boot loader device](images/step19.PNG)
+
+The installation will now continue.
+
+--- /collapse ---
+
++ When the installation is finished, click **Continue**.
+
+![installation finished](images/step20.PNG)
+
+Your computer will automatically reboot and then show you the **GNU GRUB boot screen**.
+
+![GNU GRUB boot screen](images/debian_boot_screen.png)
+
++ Press <kbd>Enter</kbd> to run **Debian GNU/Linux**.
+
++ Now that the installation in complete, you can remove the USB drive installer from the computer.
