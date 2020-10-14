@@ -31,4 +31,4 @@ In the next steps, we will talk you through how to download and install these.
 
 --- /collapse ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/install-raspberry-pi-desktop/print){:target="_blank"}.
