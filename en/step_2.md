@@ -4,7 +4,7 @@
 
 **Note:** the file is large, so the download may take a long time, and we recommend using a high-speed internet connection.
 
-![highlighted link to download raspberry pi desktop iso](images/download_raspberry_pi_desktop_annotated.PNG)
+![highlighted link to download raspberry pi desktop iso](images/download_raspberry_pi_desktop.PNG)
 
 **Note:** since you'll download the latest version, it might be different to the one shown in the image above.
 
