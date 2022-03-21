@@ -1,6 +1,6 @@
 ## Download Raspberry Pi Desktop
 
-+ Go to the [Raspberry Pi Desktop website](https://www.raspberrypi.org/downloads/raspberry-pi-desktop/), and start the download of the latest installation file by clicking the **Download ISO** button. 
++ Go to the [Raspberry Pi Desktop website](https://www.raspberrypi.org/downloads/raspberry-pi-desktop/), and start the download of the latest installation file by clicking the **Download** button. 
 
 **Note:** the file is large, so the download may take a long time, and we recommend using a high-speed internet connection.
 
