@@ -1,16 +1,21 @@
+---
 title: Install Raspberry Pi Desktop on your PC or Mac
 hero_image: images/banner.png
-description: Breathe new life into an old computer by installing Raspberry Pi Desktop on it
+description: Breathe new life into an old computer by installing Raspberry Pi Desktop
+  on it
 version: 4
 listed: true
 copyedit: true
-last_tested: "2018-09-19"
+last_tested: '2018-09-19'
 steps:
-  - title: Introduction
-  - title: Download Raspberry Pi Desktop
-  - title: Create a USB drive installer
-  - title: Boot from the USB drive
-  - title: Install Raspberry Pi Desktop
-  - title: Start up Raspbery Pi Desktop
-  - title: What next?
-
+- title: Introduction
+- title: Download Raspberry Pi Desktop
+- title: Create a USB drive installer
+  completion:
+  - engaged
+- title: Boot from the USB drive
+- title: Install Raspberry Pi Desktop
+- title: Start up Raspbery Pi Desktop
+  completion:
+  - internal
+- title: What next?
