@@ -9,11 +9,13 @@ copyedit: true
 last_tested: '2018-09-19'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Download Raspberry Pi Desktop
 - title: Create a USB drive installer
+  completion:
+  - engaged
 - title: Boot from the USB drive
 - title: Install Raspberry Pi Desktop
-  completion: internal
 - title: Start up Raspbery Pi Desktop
+  completion:
+  - internal
 - title: What next?
