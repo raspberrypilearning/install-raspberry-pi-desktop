@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Breathe new life into an old computer by installing Raspberry Pi Desktop
   on it
 version: 4
-listed: true
+listed: false
 copyedit: true
 last_tested: '2018-09-19'
 steps:
